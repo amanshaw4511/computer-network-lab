@@ -6,7 +6,7 @@ Two routers connected via Serial0/0, each serving a different LAN:
 - **WAN link**: 192.168.1.0/24
 PCs on each LAN use their respective router interfaces as gateways.
 
-<img width="1133" height="562" alt="image" src="https://github.com/user-attachments/assets/5bdab337-e9fb-40db-959e-883af1f8b185" />
+<img width="1133" height="562" alt="image" src="https://github.com/user-attachments/assets/5897835f-8bb2-4ce5-98b9-c8ad8ce1d4c1" />
 
 ## Configure
 ### R1 Configuration
